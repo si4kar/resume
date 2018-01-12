@@ -182,26 +182,26 @@ h3 {
     font-size: 50px;
  }
 
-#skill ul {
+.skills ul {
     padding-left: 40px;
     text-align: right;
     display: inline-block;
     padding-bottom: 20px;
 }
-#skill li {
+.skills li {
     list-style-type: none;
     height: 50px;
 }
-#skill p {
+.skills p {
     text-align: center;
     display: inline;
     padding-left: 85px;
     font-size: 45px;
 }
-#skill span {
+.skills span {
     color: gray;
 }
-#skill h2 {
+.skills h2 {
     display: inline;
     margin-left: 20px;
     color: black;
